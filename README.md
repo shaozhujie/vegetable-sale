@@ -3,7 +3,7 @@
  **有问题或获取源码可以咨询QQ1760272627**
  
  **系统运行视频** 
-https://www.bilibili.com/video/BV1im411r79c/?vd_source=5f273f72fd3dc593e25c33cbccdad12e
+[https://www.bilibili.com/video/BV1im411r79c/?vd_source=5f273f72fd3dc593e25c33cbccdad12e](https://www.bilibili.com/video/BV1qEatejEhZ/?vd_source=5f273f72fd3dc593e25c33cbccdad12e)
  
 ### 功能：
 用户：登录、注册、忘记密码、主页、蔬菜信息、下单、蔬菜咨询、收藏、购物车、菜棚预约、留言、我的订单、地址管理、个人中心
