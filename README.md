@@ -1,6 +1,6 @@
 # 基于SpringBoot+Vue的网上蔬菜销售系统的设计与实现
 
- **有问题或获取源码可以咨询企鹅Q1760272627**
+ **有问题或获取源码可以咨询QQ1760272627**
  
  **系统运行视频** 
 https://www.bilibili.com/video/BV1im411r79c/?vd_source=5f273f72fd3dc593e25c33cbccdad12e
@@ -16,16 +16,4 @@ SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
 ### 工具：
 idea，vscode，navicat
 
-### 系统截图：
-![登录](img/image.png)
-![首页](img/image1.png)
-![蔬菜信息](img/image2.png)
-![蔬菜详情](img/image3.png)
-![资讯](img/image4.png)
-![留言](img/image5.png)
-![购物车](img/image6.png)
-![我的订单](img/image7.png)
-![地址管理](img/image8.png)
-![管理员后台](img/image9.png)
-
- **有问题或获取源码可以咨询企鹅Q1760272627**
+ **有问题或获取源码可以咨询QQ1760272627**
